@@ -1,4 +1,12 @@
-SSuite NetSurfer Extreme x86/x64   ||    v1.0.2.4
+SSuite NetSurfer Extreme x86/x64     ||       v1.0.2.4
+
+
+Minimum System Requirements:
+
+1024 x 768 Display Size
+Windows 10 / 11 / 12 and Beyond...     32Bit and 64Bit
+
+
 
 Get the latest edition here:
 
