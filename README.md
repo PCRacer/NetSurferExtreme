@@ -1,5 +1,9 @@
 SSuite NetSurfer Extreme x86/x64   ||    v1.0.2.4
 
+Get the latest edtion here:
+
+https://www.ssuiteoffice.com/software/netsurferxwebbrowser.htm
+
 
 T h i s i s o u r l a t e s t a n d g r e a t e s t r e l e a s e . . .
 
