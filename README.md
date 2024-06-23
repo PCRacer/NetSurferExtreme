@@ -1,4 +1,4 @@
-SSuite NetSurfer Extreme x86/x64     ||       v1.0.2.4
+SSuite NetSurfer Extreme Browser x86/x64     ||       v1.2.10.2
 
 
 Minimum System Requirements:
@@ -10,10 +10,10 @@ Windows 10 / 11 / 12 and Beyond...     32Bit and 64Bit
 
 Get the latest edition here:
 
-https://www.ssuiteoffice.com/software/netsurferxwebbrowser.htm
+https://www.ssuiteoffice.com/categories/esotericandspecialist.htm
 
 
-T h i s i s o u r l a t e s t a n d g r e a t e s t r e l e a s e . . .
+T h i s  i s  o u r  l a t e s t  a n d  g r e a t e s t  r e l e a s e . . .
 
 SSuite NetSurfer runs on the internal web engine of Microsoft's Edge browser, also known
 as the WebView2 runtime control. The WebView2 control uses Microsoft Edge as the
@@ -21,7 +21,9 @@ rendering engine, so our application has no other connection with Microsoft's Ed
 browser itself, or any other tracking or data collection built into it. WebView2 is now the
 main browser engine in all the latest Windows releases.
 
-G e t t h e l a t e s t A n d r o i d E d i t i o n H e r e
+G e t  t h e  l a t e s t  A n d r o i d  E d i t i o n  H e r e:
+
+https://www.ssuiteoffice.com/software/netsurferwebbrowser.htm#NetSurferAndroid
 
 It has recently come to light that Google is employing ex-CIA agents to help with their
 data collecting and information gathering on their users. This is a major concern for
@@ -62,7 +64,7 @@ SSuite NetSurfer Media-Player -- Demo Video - Watch Now! { 1:15 min }
 SSuite NetSurfer Hardware Access -- Demo Video -Watch Now! { 0:43 sec }
 SSuite HomePage Bookmarking -- Demo Video - Watch Now! { 1:16 min }
 
-R u n n i n g I n s t r u c t i o n s - D e s k t o p E d i t i o n :
+R u n n i n g  I n s t r u c t i o n s - D e s k t o p  E d i t i o n :
 
 Make sure the WebView2 control is installed on your system, if not or you don't wish to have
 Microsoft's Edge browser installed, simply download and install the WebView2 runtime control. This
@@ -75,7 +77,7 @@ Please take note - On first time startup the application will take a few extra s
 This is because our browser executable needs to create custom folders for the browser history, cache,
 and settings. Afterwards it will run as normal.
 
-R u n n i n g I n s t r u c t i o n s - P o r t a b l e E d i t i o n :
+R u n n i n g  I n s t r u c t i o n s - P o r t a b l e  E d i t i o n :
 
 Unzip, copy, and then paste all the files into a custom folder with full writing and reading
 access. This is needed to allow the browser to create its own data folders and run properly.
@@ -91,7 +93,7 @@ yourself or test your own favourite browser to see which is the fastest!
 
 SSuite Vide o Demos
 
-E n h a nc e y o u r B r ow s e r S e c u r it y N ow !
+E n h a nc e  y o u r  B r ow s e r  S e c u r it y  N ow !
 
 Navigate to our "Internal Flags" option in the controls menu in our NetSurfer browser...
 
@@ -115,11 +117,11 @@ having changed all the settings. Simply close the NetSurfer application and rest
 Restart button on the bottom of the Internal Flags page in our NetSurfer browser does not work!
 Use the below function for best user experience and performance!
 
-The mo s t I m p o r t a nt Wi nd ow o f N e t S u r f e r . . . The S e tti ng s Wi nd ow !
+The  mo s t  I m p o r t a nt  Wi nd ow  o f  N e t S u r f e r . . . The  S e tti ng s  Wi nd ow !
 
 Below is a screenshot of our Settings Window...
 
-We now ha v e a b u i lt-in Ad -Bl o c ke r f o r o u r b r ow s e r. . .
+We  now  ha v e  a  b u i lt-in  Ad -Bl o c ke r  f o r  o u r  b r ow s e r. . .
 
 When you open the general "Settings" window, you will see the "Ad-Blocker" button on the bottom-right
 of the screen. Click on this button to access all the options available for this feature. To enable or disable
@@ -141,7 +143,7 @@ and up, due to the fact that the latest WebView2 runtime update does not support
 
 SSuite NetSurfer Extreme Edition Supports Extensions from our own Extension Library!
 
-S o me hi d d en p r o d u c ti v it y imp r ov ement s and a d d ons . . .
+S o me  hi d d en  p r o d u c ti v it y  imp r ov ement s  and  a d d ons . . .
 
 On the far left of the toolbar, you will find the following drop-down menu filled with our best online PWA
 software.
@@ -152,7 +154,7 @@ it stays inside the browser, on your computer, and does NOT require any further 
 except for the Weather, Speed Check, and Stock market apps which obviously require an internet
 connection to provide you with live data.
 
-S o me mo r e hi d d en s y s t em c a l l s . . .
+S o me  mo r e  hi d d en  s y s t em  c a l l s . . .
 
 On the far right of the toolbar, you will find the following drop-down menu as seen in the below image.
 You will find some useful direct browser and system calls for Windows here.
@@ -171,7 +173,9 @@ If you experiencing any problems on a website with downloads or video streaming,
 and add the website to the Ad-Blocking Whitelist and click refresh. This should solve your problem
 instantly.
 
-Qu i c k ti p on c l o s ing a l l t ho s e t a b s and s t a r ting f r e sh. . .
+Qu i c k  ti p  on  c l o s ing  a l l  t ho s e  t a b s  and  s t a r ting  f r e sh. . .
+
+Shortcut for power users - Ctrl + Alt + X
 
 If you've been busy browsing the internet for a while, you would probably notice that you have a few or
 maybe a lot of tabs open. It can be quite the hassle to close all those tabs and starting over again with
@@ -223,7 +227,7 @@ your smartphone's Wi-Fi hotspot.
 
 Quick Tip 2 😎 😏
 
-J u s t F Y I on o u r H o me p a g e s e l e c ti ons . . .
+J u s t  F Y I  on  o u r  H o me p a g e  s e l e c ti ons . . .
 
 If you have one of our virtual desktops set as your homepage, you first need to
 navigate your homepage tab to another web page before closing. If you don't do this,
@@ -236,7 +240,7 @@ the WebView2 control, preventing proper shutdown. I would suggest not using our 
 homepage but as a web application, unless you are also willing to do the above actions when closing the
 browser(including being used as an app) to ensure proper running of new NetSurfer instances.
 
-S t a r t p r o t e c ting y o u r ne t w o rk c onne c ti on:
+S t a r t  p r o t e c ting  y o u r  ne t w o rk  c onne c ti on:
 
 1. Before you start doing anything, you will need to change your DNS server settings on your network
 connection to the internet. Go to your network connections in the Windows Control panel and open
@@ -274,7 +278,7 @@ General Secure Open Access Only - IPv6
 Primary DNS: 2606:4700:4700::1111
 Secondary DNS: 2606:4700:4700::1001
 
-We b V i e w 2 R u n t i m e C o n t r o l - W i n d o w s S y s t e m C o m p a t i b i l i t y
+We b V i e w 2  R u n t i m e  C o n t r o l  -  W i n d o w s  S y s t e m  C o m p a t i b i l i t y
 
 WebView2 apps can run on the following versions of Windows x86/x64:
 
@@ -344,14 +348,14 @@ Open / Close DevTools Ctrl + Shift + I
 Open DevTools Console Ctrl + Shift + J
 Open DevTools Inspect Ctrl + Shift + C
 
-H ow To U p d a t e Ou r N e t S u r f e r Br ow s e r - De skt o p Ed iti on
+H ow  To  U p d a t e  Ou r  N e t S u r f e r  Br ow s e r  -  De skt o p  Ed iti on
 
 Simply install the browser on your system by running the new install file you've
 just downloaded. All your web data will still be intact and accessible. This method
 goes for both the 32bit and 64bit editions. All your settings and adblocker updates
 will stay the same as before.
 
-G o o g l e Au t henti c a ti on
+G o o g l e  Au t henti c a ti on
 
 Google has enabled the WebView2 runtime control to login into their online platform.
 This has been done recently and without any notification, so you are now capable and
@@ -359,7 +363,7 @@ able of using YouTube, Google-Docs, Gmail, and other associated services provide
 Google using your own personal account, through our incredible web browser
 NetSurfer... Enjoy!
 
-S e tting o u r s e l v e s a p a r t f r o m t he r e s t. . .
+S e tting  o u r s e l v e s  a p a r t  f r o m  t he  r e s t. . .
 
 We are still the ONLY software company in the world that does not require a "Login
 Prompt" or "Account Registration" for you to use our free Progressive Web
@@ -369,8 +373,9 @@ functionally limited. All our online apps and games are FULL free editions.
 Our online software also does NOT run in the Cloud, but directly inside our browser!
 Your online safety and pr ivacy are absolutely guarante ed!
 
-. . . This document was created by SSuite WordGraph - Online Edition . . .
 
+. . . This document was created by SSuite WordGraph - Online Edition . . .
+                 https://word.ssuiteoffice.com/
 
 
 
