@@ -1,4 +1,4 @@
-SSuite NetSurfer Extreme Browser x86/x64     ||       v1.2.10.2
+SSuite NetSurfer Extreme Browser x86/x64     ||       v1.2.10.4
 
 
 Minimum System Requirements:
@@ -6,12 +6,13 @@ Minimum System Requirements:
 1024 x 768 Display Size
 Windows 10 / 11 / 12 and Beyond...     32Bit and 64Bit
 
+[Visit our Extensive v3 Unpacked Extension Library Here.](https://www.ssuiteoffice.com/categories/extensions.htm)
 
+~
 
-Get the latest edition here:
+[Get the latest edition here](https://www.ssuiteoffice.com/categories/esotericandspecialist.htm)
 
-https://www.ssuiteoffice.com/categories/esotericandspecialist.htm
-
+~
 
 T h i s  i s  o u r  l a t e s t  a n d  g r e a t e s t  r e l e a s e . . .
 
@@ -21,9 +22,11 @@ rendering engine, so our application has no other connection with Microsoft's Ed
 browser itself, or any other tracking or data collection built into it. WebView2 is now the
 main browser engine in all the latest Windows releases.
 
-G e t  t h e  l a t e s t  A n d r o i d  E d i t i o n  H e r e:
+~
 
-https://www.ssuiteoffice.com/software/netsurferwebbrowser.htm#NetSurferAndroid
+[G e t  t h e  l a t e s t  A n d r o i d  E d i t i o n  H e r e](https://www.ssuiteoffice.com/software/netsurferwebbrowser.htm#NetSurferAndroid)
+
+~
 
 It has recently come to light that Google is employing ex-CIA agents to help with their
 data collecting and information gathering on their users. This is a major concern for
@@ -59,10 +62,13 @@ The WebView2 runtime control is Chromium-based for best performance and security
 Rely on an up-to-date version of Chromium with regular platform updates and
 security patches.
 
-SSuite NetSurfer Browser -- Demo Video - Watch Now! { 5:47 min }
-SSuite NetSurfer Media-Player -- Demo Video - Watch Now! { 1:15 min }
-SSuite NetSurfer Hardware Access -- Demo Video -Watch Now! { 0:43 sec }
-SSuite HomePage Bookmarking -- Demo Video - Watch Now! { 1:16 min }
+SSuite NetSurfer Browser -- Demo Video - [Watch Now! { 5:47 min }](https://blog.ssuiteoffice.com/video/netsurferbrowserdemo.mp4) 
+
+SSuite NetSurfer Media-Player -- Demo Video - [Watch Now! { 1:15 min }](https://blog.ssuiteoffice.com/video/NetSurferMediaPlayer.mp4) 
+
+SSuite NetSurfer Hardware Access -- Demo Video - [Watch Now! { 0:43 sec }](https://blog.ssuiteoffice.com/video/SSuiteHomePageDemo.mp4) 
+
+SSuite HomePage Bookmarking -- Demo Video - [Watch Now! { 1:16 min }](https://blog.ssuiteoffice.com/video/AccessingHardwareDevicesWithNetSurfer.mp4)
 
 R u n n i n g  I n s t r u c t i o n s - D e s k t o p  E d i t i o n :
 
