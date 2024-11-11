@@ -1,4 +1,4 @@
-SSuite NetSurfer Extreme Browser x86/x64     ||       v1.4.12.8
+SSuite NetSurfer Extreme Browser x86/x64     ||       v1.4.12.10
 
 
 Minimum System Requirements:
@@ -6,7 +6,7 @@ Minimum System Requirements:
 1024 x 768 Display Size
 Windows 10 / 11 / 12 and Beyond...     32Bit and 64Bit
 
-[Visit our Extensive v3 Unpacked Extension Library Here.](https://www.ssuiteoffice.com/categories/extensions.htm)
+[Visit our Extensive v2/v3 Unpacked Extension Library Here.](https://www.ssuiteoffice.com/categories/extensions.htm)
 
 ~
 
