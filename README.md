@@ -1,4 +1,4 @@
-SSuite NetSurfer Extreme Browser x86/x64     ||       v1.4.12.12
+SSuite NetSurfer Extreme Browser x86/x64     ||       v1.6.14.2
 
 
 Minimum System Requirements:
